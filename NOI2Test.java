@@ -30,5 +30,6 @@ public class NOI2Test {
 //		System.out.println(""+attr.size());
 		System.out.println("最后修改时间："+attr.lastModifiedTime());
 		System.out.println(".");
+		System.out.println("send to github.com.");
 	}
 }
